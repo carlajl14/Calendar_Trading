@@ -2,7 +2,7 @@
     "transactions": [
         {
             "id": "1",
-            "symbolo": "EUR/USD",
+            "activo": "EUR/USD",
             "transaction": "Buy",
             "fecha": "12/02/2021",
             "resultado": "ganancia"
